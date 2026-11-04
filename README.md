@@ -57,8 +57,10 @@ A responsive website developed to present school information and improve its onl
 
 **SkillCraft Technology — Data Analyst Intern**
 
-- Explored data analytics concepts and techniques.
-- Worked on data analysis tasks and strengthened analytical skills.
+- Completed hands-on projects involving data analysis, data cleaning, data visualization and exploratory data analysis using Python, Excel and Power BI.
+- Technologies: Python, Pandas, Microsoft Excel, Power BI, Data Analysis, EDA.
+
+Project Repositories: [SCT_DA_1](https://github.com/AkshathaVaibhav/SCT_DA_1) | [SCT_DA_2](https://github.com/AkshathaVaibhav/SCT_DA_2) | [SCT_DA_3](https://github.com/AkshathaVaibhav/SCT_DA_3) | [SCT_DA_4](https://github.com/AkshathaVaibhav/SCT_DA_4)
 
 ---
 
