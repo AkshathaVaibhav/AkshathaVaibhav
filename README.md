@@ -31,23 +31,16 @@ I enjoy exploring new technologies, developing web applications, and turning ide
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ### 🚀 Featured Projects
 
-**Smart Bus Crowd Management System**
+- 🚌 **Smart Bus Crowd Management System** – A smart transportation project focused on monitoring bus occupancy and reducing overcrowding using sensors and real-time data.
 
-A smart transportation project focused on monitoring bus occupancy and reducing overcrowding using sensors and real-time data.
+- 🥛 [Dairy Cooperative Pricing & Payment Engine](https://github.com/akshayaksh1508-creator/T004-PS-098) – A **collaborative project** focused on milk pricing rules, rate charts, interpolation and member payment calculations.
 
-**Dairy Cooperative Milk Procurement Pricing & Payment Engine**
-
-A collaborative project focused on milk pricing rules, rate charts, interpolation and member payment calculations.
-
-**MES School Website**
-
-- A responsive website developed to present school information and improve its online presence.
-- Live website link:https://mesconventtvk.com/
-- Website repository:https://github.com/AkshathaVaibhav/mes-school
-
+- 🏫 [MES School Website](https://github.com/AkshathaVaibhav/mes-school) –
+  - A responsive website developed to present school information and improve its online presence.
+  - Built using HTML, CSS and JavaScript.
+  - Live website link:https://mesconventtvk.com/
 ---
 
 ### 💼 Experience
