@@ -44,7 +44,9 @@ A collaborative project focused on milk pricing rules, rate charts, interpolatio
 
 **MES School Website**
 
-A responsive website developed to present school information and improve its online presence.
+- A responsive website developed to present school information and improve its online presence.
+- Live website link:https://mesconventtvk.com/
+- Website repository:https://github.com/AkshathaVaibhav/mes-school
 
 ---
 
