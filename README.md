@@ -59,14 +59,6 @@ Project Repositories: [SCT_DA_1](https://github.com/AkshathaVaibhav/SCT_DA_1) | 
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshathaVaibhav&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaVaibhav&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AkshathaVaibhav&theme=tokyonight&hide_border=true)
-
 
 ### 🤝 Let's Connect!
 
