@@ -35,7 +35,7 @@ I enjoy exploring new technologies, developing web applications, and turning ide
 
 - 🚌 **Smart Bus Crowd Management System** – A smart transportation project focused on monitoring bus occupancy and reducing overcrowding using sensors and real-time data.
 
-- 🥛 [Dairy Cooperative Pricing & Payment Engine](https://github.com/akshayaksh1508-creator/T004-PS-098) – A **collaborative project** focused on milk pricing rules, rate charts, interpolation and member payment calculations.
+- 🥛 [Dairy Cooperative Milk Procurement Pricing & Member Payment Engine](https://github.com/akshayaksh1508-creator/T004-PS-098) – A **collaborative project** focused on milk pricing rules, rate charts, interpolation and member payment calculations.
 
 - 🏫 [MES School Website](https://github.com/AkshathaVaibhav/mes-school) –
   - A responsive website developed to present school information and improve its online presence.
