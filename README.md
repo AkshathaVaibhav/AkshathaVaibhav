@@ -42,7 +42,7 @@ I enjoy exploring new technologies, developing web applications, and turning ide
   - Built using HTML, CSS and JavaScript.
   - Live website link:https://mesconventtvk.com/
  
-  - [Kubera Expense Tracker](https://kubera-expense-tracker.vercel.app/) - A responsive personal finance dashboard built with Next.js to manage income, expenses, budgets, transactions, and spending analytics.
+- [Kubera Expense Tracker](https://kubera-expense-tracker.vercel.app/) - A responsive personal finance dashboard built with Next.js to manage income, expenses, budgets, transactions, and spending analytics.
 ---
 
 ### 💼 Experience
